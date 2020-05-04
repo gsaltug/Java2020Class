@@ -1,3 +1,5 @@
+package day26_MethodOverloading;
+
 public class MethodOverloading {
     //multiple methods sharing the same name, but parameters must be different.
 //either data type or number of the parameters

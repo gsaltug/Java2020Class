@@ -1,3 +1,5 @@
+package day02_variables;
+
 public class gasRecipts {
 
     public static void main(String[] args) {
