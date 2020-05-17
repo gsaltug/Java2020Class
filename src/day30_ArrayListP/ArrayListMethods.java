@@ -1,6 +1,7 @@
 package day30_ArrayListP;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class ArrayListMethods {
     public static void main(String[] args) {
@@ -38,6 +39,7 @@ PROVIDE ONLY VALID INDEX NUMBER
         list2.set(2, "E");
         list2.set(3, "F");
         System.out.println(list2); //[A, D, E, F]
+
 
 
 

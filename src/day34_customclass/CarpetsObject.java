@@ -1,4 +1,6 @@
 package day34_customclass;
+import OfficeHours.Pizza;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 public class CarpetsObject {
@@ -34,6 +36,7 @@ public class CarpetsObject {
 
         for(int i = 0; i < regularCarpets.size(); i++){
             System.out.println( regularCarpets.get(i).calcCost()  );
+
         }
 
 
